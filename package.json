@@ -1,0 +1,23 @@
+{
+  "name": "seoaserver",
+  "version": "1.0.0",
+  "description": "Seoa Server Management Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoaapp/Seoa-Server.git"
+  },
+  "author": "PMH Studio / PMH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seoaapp/Seoa-Server/issues"
+  },
+  "homepage": "https://github.com/seoaapp/Seoa-Server#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
